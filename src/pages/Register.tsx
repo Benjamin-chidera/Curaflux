@@ -30,10 +30,7 @@ const Register = () => {
   // };
 
   const handleGoogle = () => {
-    window.open(
-      "http://curaflux-server.onrender.com/auth/google/callback",
-      "_self"
-    );
+    window.open("https://curaflux-server.onrender.com/auth/google", "_self");
   };
 
   return (
