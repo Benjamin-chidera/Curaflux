@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import dp from "../assets/images/dp.jpg";
 import { FaBell } from "react-icons/fa";
 import { IoSettings } from "react-icons/io5";

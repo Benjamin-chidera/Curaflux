@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import healthcareImage from "../assets/images/fimg1.jpeg";
 import logo from "../assets/images/logo.png";
-import axios from "axios";
 
 const Register = () => {
   const [formData, setFormData] = useState({
